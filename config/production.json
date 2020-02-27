@@ -1,6 +1,6 @@
 {
-    "port": 5000,
+    "port": 80,
     "jwtSecret": "vladilen youtube mern",
     "mongoUri": "mongodb+srv://sazhnevea:XzWQtS5MWxpC8wyG@cluster0-g8bhu.azure.mongodb.net/app?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:5000"
+    "baseUrl": "https://sazhnev-mern.herokuapp.com/"
 }
